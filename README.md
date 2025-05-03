@@ -18,7 +18,7 @@ Arquitectura: Modelo-Vista-Controlador(MVC)
 
 instalacion del proyecto
 abirr el cmd con W+R y poner lo siguiente:
-git clone https://github.com/RND-23/sistema-ventas.git
+git clone https://github.com/jesusmartinez19/SISTEMAS-VENTAS
 
 Ingreso del sistema:
 Inicia sesion con las credenciales:
